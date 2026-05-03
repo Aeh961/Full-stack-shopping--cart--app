@@ -97,4 +97,4 @@ Deploy application to cloud (AWS, Vercel, etc.)
 🔹 Author
 
 Abdallah El Hamawi
-MS Software Development, Boston Universitye
+MS Software Development, Boston University
